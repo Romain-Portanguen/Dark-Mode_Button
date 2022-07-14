@@ -36,6 +36,16 @@
   border: #61b3ff solid 1px;
 }
 
+.switch i {
+  position: absolute;
+  color: #FFD363;
+  top: 8px;
+  right: 10px
+}
+
+.icon-change {
+  left: 10px;
+}
 
 .btn {
   width: 32px;
@@ -52,17 +62,6 @@
 .btn-change {
   right: -1px;
   left: auto;
-}
-
-.switch i {
-  position: absolute;
-  color: #FFD363;
-  top: 8px;
-  right: 10px
-}
-
-.icon-change {
-  left: 10px;
 }
 
 .selector {
